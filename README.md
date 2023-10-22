@@ -22,6 +22,10 @@ Preface
 Command Query Responsibility Segregation — separates application onto two sides: read and write, and Event Sourcing — architectual pattern that represents
 state as sequence of immutable events.
 
+Two of three books are keen to more practical approach, and starts by giving a project idea.
+
+I will choose my own: let it be a meme platform.
+
 Chapter 1
 ---
 
